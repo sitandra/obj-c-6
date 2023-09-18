@@ -14,6 +14,7 @@
 		DFA8E51D2AB833EA006A4B69 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DFA8E51C2AB833EA006A4B69 /* Assets.xcassets */; };
 		DFA8E5202AB833EA006A4B69 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DFA8E51E2AB833EA006A4B69 /* LaunchScreen.storyboard */; };
 		DFA8E5232AB833EA006A4B69 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DFA8E5222AB833EA006A4B69 /* main.m */; };
+		DFA8E52B2AB8340D006A4B69 /* Robot.m in Sources */ = {isa = PBXBuildFile; fileRef = DFA8E52A2AB8340D006A4B69 /* Robot.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		DFA8E51F2AB833EA006A4B69 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DFA8E5212AB833EA006A4B69 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DFA8E5222AB833EA006A4B69 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		DFA8E5292AB8340D006A4B69 /* Robot.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Robot.h; sourceTree = "<group>"; };
+		DFA8E52A2AB8340D006A4B69 /* Robot.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Robot.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				DFA8E5142AB833E9006A4B69 /* SceneDelegate.m */,
 				DFA8E5162AB833E9006A4B69 /* ViewController.h */,
 				DFA8E5172AB833E9006A4B69 /* ViewController.m */,
+				DFA8E5292AB8340D006A4B69 /* Robot.h */,
+				DFA8E52A2AB8340D006A4B69 /* Robot.m */,
 				DFA8E5192AB833E9006A4B69 /* Main.storyboard */,
 				DFA8E51C2AB833EA006A4B69 /* Assets.xcassets */,
 				DFA8E51E2AB833EA006A4B69 /* LaunchScreen.storyboard */,
@@ -150,6 +155,7 @@
 				DFA8E5122AB833E9006A4B69 /* AppDelegate.m in Sources */,
 				DFA8E5232AB833EA006A4B69 /* main.m in Sources */,
 				DFA8E5152AB833E9006A4B69 /* SceneDelegate.m in Sources */,
+				DFA8E52B2AB8340D006A4B69 /* Robot.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
